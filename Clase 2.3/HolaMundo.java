@@ -10,9 +10,11 @@ class HolaMundo{
         
         int resultado = 20;
 
+        int n = 60;
+
         System.out.println("Resultado= " + resultado + 5);
 
-        System.out.println("Resultado= " + (resultado+5));
+        System.out.println("Resultado= " + (n*5));
 
     }
 
