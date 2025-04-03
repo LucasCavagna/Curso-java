@@ -10,7 +10,9 @@ class HolaMundo{
         
         int resultado = 20;
 
-        System.out.println("Resultado= " + resultado);
+        System.out.println("Resultado= " + resultado + 5);
+
+        System.out.println("Resultado= " + (resultado+5));
 
     }
 
