@@ -7,8 +7,10 @@ class HolaMundo{
 
     // Metodo de Hola Mundo
     public static void main(String[] args){
+        
+        int resultado = 20;
 
-        System.out.println("Hola Mundo!");
+        System.out.println("Resultado= " + resultado);
 
     }
 
