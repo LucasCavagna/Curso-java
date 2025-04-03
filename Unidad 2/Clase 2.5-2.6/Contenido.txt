@@ -1,0 +1,1 @@
+Solo se vieron cuestiones sobre las variables en Java, secciones Variables y Declaracion de variables del pdf
