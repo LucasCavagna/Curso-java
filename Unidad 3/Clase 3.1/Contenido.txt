@@ -1,0 +1,1 @@
+Aqui se da la declaracion de metodos en java
