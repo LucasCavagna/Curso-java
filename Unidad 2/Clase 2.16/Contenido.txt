@@ -1,0 +1,1 @@
+Aqui se ven los operadores logicos. Guada con los strings que no son un tipo nativo
