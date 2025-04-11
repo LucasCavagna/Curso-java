@@ -1,3 +1,1 @@
 Aqui se habla sobre la pila de llamadas de la maquina virtual de java, a grandes razgos
-
-TODO: verificar nuevamente el debug
