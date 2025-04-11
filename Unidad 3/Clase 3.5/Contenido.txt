@@ -1,0 +1,1 @@
+Aqui se dieron ejemplos de como se declaran las variables glopbales y locales
