@@ -1,0 +1,1 @@
+Aqui se vion la version mas compacata del for que estuvimos usando como opcion, el for each.

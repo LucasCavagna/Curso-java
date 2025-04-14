@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class MatrizIrregular {
 
     public static void main(String[] args) {
@@ -25,6 +27,7 @@ public class MatrizIrregular {
             System.out.println();
         }
 
-
+        String plana = Arrays.deepToString(matriz);
+        System.out.println(plana);
     }
 }

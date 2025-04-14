@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Matriz {
 
     public static void main(String[] args) {
@@ -24,7 +26,9 @@ public class Matriz {
             }
             System.out.println();
         }
-
+        
+        String plana = Arrays.deepToString(matriz);
+        System.out.println(plana);
 
     }
 }
