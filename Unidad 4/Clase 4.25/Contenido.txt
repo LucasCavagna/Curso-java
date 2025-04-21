@@ -1,0 +1,3 @@
+Aqui se vio reutilizacionde codigo.
+
+TODO: hacer este ejerccicio pero para hacerlo hay que hacer los anterirores
