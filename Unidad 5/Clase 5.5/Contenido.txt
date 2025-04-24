@@ -1,0 +1,2 @@
+Aqui se introduce UML que la verdad es una combinacion entre el diseño 
+orientado a objetos dado en IS2 con el DER de Bases de datos.

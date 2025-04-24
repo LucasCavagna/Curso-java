@@ -1,0 +1,2 @@
+Aqui habla sobre mapas de objetos, para 
+verificar que las relaciones de UML esten bien dadas
