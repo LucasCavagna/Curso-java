@@ -1,0 +1,1 @@
+Aqui se hace la introduccio a las excepciones
