@@ -11,14 +11,9 @@ public class Instituto2 {
         alumnos.add(new Alumno("Ana", "3333A", 14));
         alumnos.add(new Alumno("Ben", "4444A", 14));
         
-        Collections.sort(alumnos, new AlumnoPorNiaComparator());
-        System.out.println("Alumnos ordenados por NIA:"); 
-        System.out.println(alumnos);
+        Collections.sort(alumnos); //ordenamos en base al método compareTo de la clase Alumno
+        System.out.println(alumnos); //Los muestra ordenados por edad → Ben Jon, Pep, Tom
         
-
-        Collections.sort(alumnos, new AlumnoPorEdadComparator());
-        System.out.println("Alumnos ordenados por edad:"); 
-        System.out.println(alumnos); 
         
     }
 }

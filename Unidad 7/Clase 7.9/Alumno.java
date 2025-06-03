@@ -1,4 +1,4 @@
-public class Alumno implements Comparable<Alumno> {
+public class Alumno implements Comparable<Alumno>{
 
     private String nombre;
     private String nia;

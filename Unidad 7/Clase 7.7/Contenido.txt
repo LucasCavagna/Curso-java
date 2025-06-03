@@ -1,0 +1,1 @@
+Aqui se ve la interfaz collection y todos sus extends e implements

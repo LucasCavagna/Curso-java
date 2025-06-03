@@ -1,4 +1,5 @@
-public class Alumno implements Comparable<Alumno> {
+
+public class Alumno implements Comparable<Alumno>{
 
     private String nombre;
     private String nia;
@@ -34,6 +35,7 @@ public class Alumno implements Comparable<Alumno> {
         this.edad = edad;
     }
 
+    @Override
     public int compareTo(Alumno a) {
         if (this.nia.compareTo(a.getNia()) == 0)
             return 0;
