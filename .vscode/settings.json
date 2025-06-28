@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "Unidad 8/Clase 8.5",
+        "Unidad 8/Clase 8.4",
+        "Unidad 8/Clase 8.3",
+        "Unidad 8/Clase 8.2",
+        "Unidad 8/Clase 8.15",
+        "Unidad 8/Clase 8.14",
+        "Unidad 8/Clase 8.13",
+        "Unidad 8/Clase 8.12",
+        "Unidad 7/Clase 7.9",
+        "Unidad 7/Clase 7.24",
+        "Unidad 8/Clase 8.16"
+    ],
+    "java.project.referencedLibraries": [
+        "e:\\Lucas\\Escritorio\\GitHub\\Curso java\\Unidad 8\\conectorMySQL\\mysql-connector-j-8.0.33.jar"
+    ]
+}
